@@ -4,7 +4,7 @@ Este es un videojuego creado con **Python** y la librería **PyGame**, donde el 
 
 ## 📁 Estructura del proyecto
 ```
-juego/
+Juego/
 │
 ├── main.py          # Archivo principal del juego
 ├── menu.py          # Muestra el menú principal
