@@ -22,7 +22,7 @@ pip install pygame
 ```
 
 
-## Ingresa desde un ID y ejecuta el comando
+## Ingresa desde un ID, dentro de la carpeta ejecuta el comando
 python main.py
 
 
