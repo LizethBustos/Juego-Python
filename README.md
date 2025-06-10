@@ -10,7 +10,6 @@ Juego/
 ├── menu.py          # Muestra el menú principal
 ├── jugador.py       # Clase del jugador
 ├── enemigo.py       # Clase del enemigo
-└── README.md        # Documentación del juego
 ```
 
 ## 💡 Requisitos
