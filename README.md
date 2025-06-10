@@ -2,8 +2,6 @@
 
 Este es un videojuego creado con **Python** y la librería **PyGame**, donde el jugador debe esquivar enemigos en movimiento.
 
-
-
 ## 📁 Estructura del proyecto
 ```
 juego/
